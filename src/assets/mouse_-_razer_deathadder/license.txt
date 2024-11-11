@@ -1,0 +1,11 @@
+Model Information:
+* title:	Mouse - Razer DeathAdder
+* source:	https://sketchfab.com/3d-models/mouse-razer-deathadder-783913c7b9df441ab99ec666eee4e052
+* author:	gimora (https://sketchfab.com/gimora)
+
+Model License:
+* license type:	CC-BY-NC-SA-4.0 (http://creativecommons.org/licenses/by-nc-sa/4.0/)
+* requirements:	Author must be credited. No commercial use. Modified versions must have the same license.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Mouse - Razer DeathAdder" (https://sketchfab.com/3d-models/mouse-razer-deathadder-783913c7b9df441ab99ec666eee4e052) by gimora (https://sketchfab.com/gimora) licensed under CC-BY-NC-SA-4.0 (http://creativecommons.org/licenses/by-nc-sa/4.0/)

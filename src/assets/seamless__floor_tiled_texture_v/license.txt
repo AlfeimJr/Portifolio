@@ -1,0 +1,11 @@
+Model Information:
+* title:	Seamless  floor Tiled Texture V
+* source:	https://sketchfab.com/3d-models/seamless-floor-tiled-texture-v-dbcf3ef57d47460cb5cba8445d9ad9ee
+* author:	Arthur.Zim (https://sketchfab.com/Arthur.Zim)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Seamless  floor Tiled Texture V" (https://sketchfab.com/3d-models/seamless-floor-tiled-texture-v-dbcf3ef57d47460cb5cba8445d9ad9ee) by Arthur.Zim (https://sketchfab.com/Arthur.Zim) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

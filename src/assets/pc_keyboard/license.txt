@@ -1,0 +1,11 @@
+Model Information:
+* title:	PC keyboard
+* source:	https://sketchfab.com/3d-models/pc-keyboard-e1f5e43da2f047369b303eec3e245c02
+* author:	Mathew_Lee_Griffiths1 (https://sketchfab.com/Mathew_Lee_Griffiths1)
+
+Model License:
+* license type:	CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+* requirements:	Author must be credited. No commercial use.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "PC keyboard" (https://sketchfab.com/3d-models/pc-keyboard-e1f5e43da2f047369b303eec3e245c02) by Mathew_Lee_Griffiths1 (https://sketchfab.com/Mathew_Lee_Griffiths1) licensed under CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
